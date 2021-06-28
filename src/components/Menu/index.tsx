@@ -80,7 +80,7 @@ const MenuItem = styled(ExternalLink)`
   }
 `
 
-const CODE_LINK = 'https://github.com/pancakeswap'
+const CODE_LINK = 'https://github.com/polycenterio'
 
 export default function Menu() {
   const node = useRef<HTMLDivElement>()
@@ -96,11 +96,11 @@ export default function Menu() {
       </StyledMenuButton>
       {open && (
         <MenuFlyout>
-          <MenuItem id="link" href="/">
+          <MenuItem id="link" href="https://polycenter.io/#/">
             <Info size={14} />
             About
           </MenuItem>
-          <MenuItem id="link" href="https://docs.pancakeswap.finance">
+          <MenuItem id="link" href="https://medium.com/@PolyCenter">
             <BookOpen size={14} />
             <TranslatedText translationId={10}>Docs</TranslatedText>
           </MenuItem>
@@ -108,11 +108,11 @@ export default function Menu() {
             <Code size={14} />
             Code
           </MenuItem>
-          <MenuItem id="link" href="https://t.me/PancakeSwap">
+          <MenuItem id="link" href="https://t.me/PolyCenter">
             <MessageCircle size={14} />
             <TranslatedText translationId={34}>Telegram</TranslatedText>
           </MenuItem>
-          <MenuItem id="link" href="https://pancakeswap.info">
+          <MenuItem id="link" href="https://polycenter.info">
             <PieChart size={14} />
             Analytics
           </MenuItem>
