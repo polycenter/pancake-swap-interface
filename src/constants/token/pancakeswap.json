@@ -52,9 +52,9 @@
     {
       "name": "PolyCenter",
       "symbol": "POLY",
-      "address": "0x419CD9ed90934874E3B722b0176c2C3C8a32dB75",
+      "address": "0x76f49f4F9b5c32ef4097DB2aD4521b039868BbdB",
       "chainId": 56,
-      "decimals": 9,
+      "decimals": 18,
       "logoURI": "/images/coins/POLY.png"
     },
     {
