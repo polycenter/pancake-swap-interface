@@ -50,8 +50,8 @@
       "logoURI": "/images/coins/bake.png"
     },
     {
-      "name": "PolyCenter.io",
-      "symbol": "POLYC",
+      "name": "PolyCenter",
+      "symbol": "POLY",
       "address": "0x13Ce95E2371DFe33E029E8C0Aa4A3E85F52dA469",
       "chainId": 56,
       "decimals": 9,
