@@ -5,8 +5,8 @@ import TranslatedText from '../TranslatedText'
 const Nav: React.FC = () => {
   return (
     <StyledNav>
-      <StyledAbsoluteLink href="https://farm.polycenter.exchange">
-        <TranslatedText translationId={2}>Farm</TranslatedText>
+      <StyledAbsoluteLink href="https://polycenter.io">
+        <TranslatedText translationId={2}>Home</TranslatedText>
       </StyledAbsoluteLink>
       <StyledAbsoluteLink href="https://app.polycenter.exchange">
         <TranslatedText translationId={4}>Staking</TranslatedText>
