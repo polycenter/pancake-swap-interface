@@ -6,7 +6,7 @@ const Nav: React.FC = () => {
   return (
     <StyledNav>
       <StyledAbsoluteLink href="https://polycenter.io">
-        <TranslatedText translationId={2}>About</TranslatedText>
+        <TranslatedText translationId={2}>Home</TranslatedText>
       </StyledAbsoluteLink>
       <StyledAbsoluteLink href="https://app.polycenter.exchange">
         <TranslatedText translationId={4}>Staking</TranslatedText>
