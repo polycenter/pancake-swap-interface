@@ -16,7 +16,7 @@ const Nav: React.FC = () => {
         <TranslatedText translationId={8}>Exchange</TranslatedText>
       </StyledAbsoluteLink>
       <StyledAbsoluteLink href="https://polycenter.info">Analytics</StyledAbsoluteLink>
-      <StyledAbsoluteLink href="https://bscscan.com/token/0x76f49f4f9b5c32ef4097db2ad4521b039868bbdb">
+      <StyledAbsoluteLink href="https://bscscan.com/address/0x13ce95e2371dfe33e029e8c0aa4a3e85f52da469">
         <TranslatedText translationId={14}>Contract</TranslatedText>
       </StyledAbsoluteLink>
     </StyledNav>
